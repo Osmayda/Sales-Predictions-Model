@@ -25,5 +25,13 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii
 - The Tier 3 Outlet Location Type has the highest sales compated to Tier 1 and Tier 2.   
 
 # Prediction Model Comparison
+![image](https://github.com/Osmayda/Sales-Predictions-Model/assets/129660519/09ef87a2-401d-468a-8e1b-b7f848f986b0)
 
-The Tuned Decision Tree Model 
+R^2 (Coefficient of Determination)
+- The Tuned Decision Tree Model has the highest R^2 test score of 0.5971.
+  
+RMSE (Root Mean Square of Errors)
+
+- The Tuned Decision Tree Model has the lowest RMSE test score of 1081.3531
+  
+**The Tuned Decision Tree Model is the reccomended model due to it having the highest R^2 test score and the lowest RMSE test score.**
