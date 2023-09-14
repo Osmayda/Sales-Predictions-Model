@@ -15,7 +15,15 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii
 - This visualization shows low fat items are sold twich as much as regular items.
 ![image](https://github.com/Osmayda/Sales-Predictions-Model/assets/129660519/901318f7-d4d0-49d0-89dd-753fb543c9d7)
 
+# Sales by Outlet_Location_Type
+![image](https://github.com/Osmayda/Sales-Predictions-Model/assets/129660519/e0feefb1-2c05-4d16-a3fb-7d086bbfe443)
+
 
 # Key Insights
 - Consumers tend to eat healthier foods.
-- Consumers tend to buy more low fat items than regular items. 
+- Consumers tend to buy more low fat items than regular items.
+- The Tier 3 Outlet Location Type has the highest sales compated to Tier 1 and Tier 2.   
+
+# Prediction Model Comparison
+
+The Tuned Decision Tree Model 
